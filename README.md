@@ -31,7 +31,13 @@ Used for loading and displaying the custom background image.
 
 ## 📸 Application Preview
 
-![Quiz Application](screenshots/image_preview.png)
+### Quiz Interface
+
+![Quiz Interface](screenshots/image_preview.png)
+
+### Result Screen
+
+![Result Screen](screenshots/result_screen.png)
 
 ## 📂 Project Structure
 
@@ -39,7 +45,8 @@ Used for loading and displaying the custom background image.
 Online-Quiz-Platform/
 │
 ├── screenshots/
-│   └── image_preview.png
+│   ├── image_preview.png
+│   └── result_screen.png
 │
 ├── bg-image.jpg
 ├── questions.json
@@ -53,7 +60,7 @@ Online-Quiz-Platform/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Online-Quiz-Platform.git
+git clone https://github.com/Ankita-b500/Online-Quiz-Platform.git
 ```
 
 ### 2. Install Dependencies
